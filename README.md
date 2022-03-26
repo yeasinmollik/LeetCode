@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/all/) Solutions
 
-![Language](https://img.shields.io/badge/language-C++-orange.svg)&nbsp; ![Update](https://img.shields.io/badge/update-daily-green.svg)&nbsp; ![Solved](https://img.shields.io/badge/Solved-24%20%2F%20500-ff69b4.svg)&nbsp;
+![Language](https://img.shields.io/badge/language-C++-orange.svg)&nbsp; ![Update](https://img.shields.io/badge/update-daily-green.svg)&nbsp; ![Solved](https://img.shields.io/badge/Solved-25%20%2F%20500-ff69b4.svg)&nbsp;
 
 | #   | Problem                                                                                                                         | Tutorial                               | Code                                                                                                                         | Time     | Space |
 | --- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------- | ----- |
