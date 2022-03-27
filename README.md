@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/all/) Solutions
 
-![Language](https://img.shields.io/badge/language-C++-orange.svg)&nbsp; ![Update](https://img.shields.io/badge/update-daily-green.svg)&nbsp; ![Solved](https://img.shields.io/badge/Solved-27%20%2F%20500-ff69b4.svg)&nbsp;
+![Language](https://img.shields.io/badge/language-C++-orange.svg)&nbsp; ![Update](https://img.shields.io/badge/update-daily-green.svg)&nbsp; ![Solved](https://img.shields.io/badge/Solved-28%20%2F%20500-ff69b4.svg)&nbsp;
 
 | #   | Problem                                                                                                                         | Tutorial                               | Code                                                                                                                         | Time     | Space |
 | --- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------- | ----- |
@@ -24,6 +24,7 @@
 |213 |[House Robber II](https://leetcode.com/problems/house-robber-ii/)| [Tutorial](https://yeasin.tech/?p=429)| [Code](https://github.com/yeasinmollik/LeetCode/blob/main/213.%20House%20Robber%20II/213.cpp)|O(n) |O(1)|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Tutorial](https://yeasin.tech/?p=437)|[Code](https://github.com/yeasinmollik/LeetCode/blob/main/216.%20Combination%20Sum%20III/216.cpp) | O(n)|O(n)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Tutorial](https://yeasin.tech/?p=588)|[Code](https://github.com/yeasinmollik/LeetCode/blob/main/217.%20Contains%20Duplicate/217.cpp) | O(n)|O(n)|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Tutorial](https://yeasin.tech/?p=656)|[Code](https://github.com/yeasinmollik/LeetCode/blob/main/226.%20Invert%20Binary%20Tree/226.cpp) | O(n)|O(n)|
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | [Tutorial](https://yeasin.tech/?p=379) | [Code](https://github.com/yeasinmollik/LeetCode/blob/main/238.%20Product%20of%20Array%20Except%20Self/238.cpp)               | O(n)     | O(1)  |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                     | [Tutorial](https://yeasin.tech/?p=654) | [Code](https://github.com/yeasinmollik/LeetCode/blob/main/242.%20Valid%20Anagram/242.cpp)               | O(n)     | O(1)  |
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Tutorial](https://yeasin.tech/?p=446)|[Code](https://github.com/yeasinmollik/LeetCode/blob/main/377.%20Combination%20Sum%20IV/377.cpp) | O(n)|O(n)|
