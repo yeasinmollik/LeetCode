@@ -1,6 +1,6 @@
 /*
     Author: Yeasin Mollik
-    Problem Name: Merge Intervals
+    Problem Name: Best Time to Buy and Sell Stock
     Date: 28/3/2022
 */
 
