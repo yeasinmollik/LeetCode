@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/all/) Solutions
 
-![Language](https://img.shields.io/badge/language-C++-orange.svg)&nbsp; ![Update](https://img.shields.io/badge/update-daily-green.svg)&nbsp; ![Solved](https://img.shields.io/badge/Solved-33%20%2F%20500-ff69b4.svg)&nbsp;
+![Language](https://img.shields.io/badge/language-C++-orange.svg)&nbsp; ![Update](https://img.shields.io/badge/update-daily-green.svg)&nbsp; ![Solved](https://img.shields.io/badge/Solved-34%20%2F%20500-ff69b4.svg)&nbsp;
 
 | #   | Problem                                                                                                                         | Tutorial                               | Code                                                                                                                         | Time     | Space |
 | --- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------- | ----- |
@@ -10,6 +10,7 @@
 |39 |[Combination Sum](https://leetcode.com/problems/combination-sum/)| [Tutorial](https://yeasin.tech/?p=393)| [Code](https://github.com/yeasinmollik/LeetCode/blob/main/39.%20Combination%20Sum/39.cpp)|O(\|c\|  x t) |O(n)|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Tutorial](https://yeasin.tech/?p=434)|[Code](https://github.com/yeasinmollik/LeetCode/blob/main/40.%20Combination%20Sum%20II/40.cpp) | O(\|c\|  x t)|O(n)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Tutorial](https://yeasin.tech/?p=663)|[Code](https://github.com/yeasinmollik/LeetCode/blob/main/49.%20Group%20Anagrams/49.cpp) | * |*|
+| 55  | [Jump Game](https://leetcode.com/problems/jump-game/)                                                               | [Tutorial](https://yeasin.tech/?p=673) | [Code](https://gist.github.com/yeasinmollik/7fbe92b28dcb6ecbb4c1d94999430853)                                    | O(n) | O(1)  |
 | 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                               | [Tutorial](https://yeasin.tech/?p=313) | [Code](https://github.com/yeasinmollik/LeetCode/blob/main/56.%20Merge%20Intervals/56.cpp)                                    | O(nlogn) | O(1)  |
 | 57  | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                               | [Tutorial](https://yeasin.tech/?p=613) | [Code](https://github.com/yeasinmollik/LeetCode/blob/main/57.%20Insert%20Interval/57.cpp)                                    | O(n) | O(1)  |
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                               | [Tutorial](https://yeasin.tech/?p=649) | [Code](https://github.com/yeasinmollik/LeetCode/blob/main/70.%20Climbing%20Stairs/70.cpp)                                    | O(n) | O(1)  |
