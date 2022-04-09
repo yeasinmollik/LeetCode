@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/all/) Solutions
 
-![Language](https://img.shields.io/badge/language-C++-orange.svg)&nbsp; ![Update](https://img.shields.io/badge/update-daily-green.svg)&nbsp; ![Solved](https://img.shields.io/badge/Solved-34%20%2F%20500-ff69b4.svg)&nbsp;
+![Language](https://img.shields.io/badge/language-C++-orange.svg)&nbsp; ![Update](https://img.shields.io/badge/update-daily-green.svg)&nbsp; ![Solved](https://img.shields.io/badge/Solved-35%20%2F%20500-ff69b4.svg)&nbsp;
 
 | #   | Problem                                                                                                                         | Tutorial                               | Code                                                                                                                         | Time     | Space |
 | --- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------- | ----- |
@@ -38,4 +38,5 @@
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                           | [Tutorial](https://yeasin.tech/?p=326) | [Code](https://github.com/yeasinmollik/LeetCode/blob/main/435.%20Non-overlapping%20Intervals/435.cpp)                        | O(nlogn) | O(1)  |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                           | [Tutorial](https://yeasin.tech/?p=610) | [Code](https://github.com/yeasinmollik/LeetCode/blob/main/572.%20Subtree%20of%20Another%20Tree/572.cpp)                        | O(\|s\| x \|t\|) | O(1)  |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                 | [Tutorial](https://yeasin.tech/?p=386) | [Code](https://github.com/yeasinmollik/LeetCode/blob/main/647.%20Palindromic%20Substrings/647.cpp)                                                                                                                     | O(n²)    | O(1)  |
+| 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)                                                 | [Tutorial](https://yeasin.tech/?p=685) | [Code](https://gist.github.com/yeasinmollik/9204ae2dee193bb11a3de00152cc9fc6)                                                                                                                     | O(n)    | O(1)  |
 
